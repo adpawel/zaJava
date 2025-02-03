@@ -6,7 +6,7 @@ This project is a **Java Spring Boot** application that integrates **PostgreSQL*
 In the future, users' login function is going to be added.
 
 ## How to start your journey and save it
-* Click on the [link](https://invigorating-charm-production.up.railway.app/).
+* Click on the [link](https://invigorating-charm-production.up.railway.app/) (works best on e.g. Edge or Chrome).
 * Find the city you're aiming for
 
   
